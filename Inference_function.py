@@ -13,7 +13,7 @@ import os
 import numpy as np
 import torch
 
-from complexdataset import MAX_WAV_VALUE
+from .complexdataset import MAX_WAV_VALUE
 from .env import AttrDict
 from .models import Generator, Encoder
 
