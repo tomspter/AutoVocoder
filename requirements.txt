@@ -1,5 +1,5 @@
 torch
-numpy==1.17.4
+numpy
 librosa==0.7.2
 scipy
 tensorboard==2.0
